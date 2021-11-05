@@ -1,5 +1,5 @@
 # CatsVsDogs-Image-classification
-Kindly download the datasets of this project from Kaggle.
+Kindly download the datasets for this project from Kaggle.
 
 -> Go to https://www.kaggle.com
 
